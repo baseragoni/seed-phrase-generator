@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/seed-phrase-generator.Wallet/seed-phrase-generator.Wallet.csproj" />
+    <Project Path="src/seed-phrase-generator.Cli/seed-phrase-generator.Cli.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/seed-phrase-generator.Wallet.Tests/seed-phrase-generator.Wallet.Tests.csproj" />
+  </Folder>
+</Solution>
