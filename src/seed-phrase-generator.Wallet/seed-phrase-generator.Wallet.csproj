@@ -1,0 +1,6 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <RootNamespace>SeedGen.Wallet</RootNamespace>
+    <AssemblyName>SeedGen.Wallet</AssemblyName>
+  </PropertyGroup>
+</Project>
